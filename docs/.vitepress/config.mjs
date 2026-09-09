@@ -17,7 +17,7 @@ export default defineConfig({
       { text: '開始閱讀', link: '/chapters/CORE_M1_SECTION_1' },
       { text: '資料與製作說明', link: '/appendix/SOURCES_AND_PRODUCTION_NOTE' },
       { text: '主要參考文獻', link: '/appendix/REFERENCES' },
-      { text: '🔖 閱讀預覽 v0.1.0 (2026-09-09)', link: '/appendix/SOURCES_AND_PRODUCTION_NOTE' }
+      { text: '🔖 閱讀預覽 v0.1.1 (2026-09-09)', link: '/appendix/SOURCES_AND_PRODUCTION_NOTE' }
     ],
     sidebar: [
       {
@@ -90,7 +90,7 @@ export default defineConfig({
       }
     },
     footer: {
-      message: '莫札特 F 大調鋼琴奏鳴曲 K. 332 第一樂章讀本 · 閱讀預覽 v0.1.0（2026-09-09）',
+      message: '莫札特 F 大調鋼琴奏鳴曲 K. 332 第一樂章讀本 · 閱讀預覽 v0.1.1（2026-09-09）',
       copyright: '作者｜鄒年城'
     }
   }

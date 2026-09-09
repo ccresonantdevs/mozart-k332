@@ -5,15 +5,15 @@
 <div class="doc-meta-bar" style="margin: 0.8rem 0 1.5rem 0; font-size: 0.95rem; color: var(--vp-c-text-2); display: flex; flex-wrap: wrap; gap: 0.8rem; align-items: center;">
   <span><strong>作者</strong>：Nian-Cheng（鄒年城）</span>
   <span>·</span>
-  <span style="background: var(--vp-c-brand-soft); color: var(--vp-c-brand-1); padding: 0.15rem 0.5rem; border-radius: 4px; font-weight: 600; font-size: 0.85rem;">v0.1.0 閱讀預覽</span>
+  <span style="background: var(--vp-c-brand-soft); color: var(--vp-c-brand-1); padding: 0.15rem 0.5rem; border-radius: 4px; font-weight: 600; font-size: 0.85rem;">v0.1.1 閱讀預覽</span>
   <span>·</span>
   <span>最後修訂：2026-09-09</span>
 </div>
 
-::: info 閱讀預覽與資料說明
+::: info 閱讀預覽與版本更新說明
 本教材目前為「暫定閱讀預覽」（Provisional Reading Preview），尚待讀者實質審閱回饋與作者後續定稿。確切的樂譜位置、譜例圖檔與示範音訊尚在持續補完中。
 
-重要譜面分析、風格主題、和聲走向與歷史脈絡，依據新莫札特全集（NMA）權威總譜、1784 年 Artaria 初版，以及古典時期音樂學者（Hatten, Sanguinetti, Beach, Hood, Silbiger, Rabinovitch, Clark Ross 等）之期刊專著與分析論文整理。詳細資料處理原則請參閱[附錄｜資料來源與製作說明](/appendix/SOURCES_AND_PRODUCTION_NOTE)與[附錄｜主要參考文獻](/appendix/REFERENCES)。
+**預覽版本更新（v0.1.1，2026-09-09）**：第一章（mm.1–22）修訂場景畫面與演奏者指尖對話指引；其餘章節正文保持不變。詳細資料處理原則請參閱[附錄｜資料來源與製作說明](/appendix/SOURCES_AND_PRODUCTION_NOTE)與[附錄｜主要參考文獻](/appendix/REFERENCES)。
 :::
 
 莫札特《F 大調鋼琴奏鳴曲，K. 332》第一樂章，以其令人眼花繚亂的「風格面具轉換」著稱於世。

@@ -5,7 +5,7 @@
 <div class="doc-meta-bar" style="margin: 0.8rem 0 1.5rem 0; font-size: 0.95rem; color: var(--vp-c-text-2); display: flex; flex-wrap: wrap; gap: 0.8rem; align-items: center;">
   <span><strong>作者</strong>：Nian-Cheng（鄒年城）</span>
   <span>·</span>
-  <span style="background: var(--vp-c-brand-soft); color: var(--vp-c-brand-1); padding: 0.15rem 0.5rem; border-radius: 4px; font-weight: 600; font-size: 0.85rem;">閱讀預覽 v0.1.0</span>
+  <span style="background: var(--vp-c-brand-soft); color: var(--vp-c-brand-1); padding: 0.15rem 0.5rem; border-radius: 4px; font-weight: 600; font-size: 0.85rem;">閱讀預覽 v0.1.1</span>
   <span>·</span>
   <span>最後修訂：2026-09-09</span>
 </div>

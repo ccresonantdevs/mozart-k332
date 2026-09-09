@@ -3,7 +3,7 @@
 <p class="chapter-subtitle">原始譜本、實檢學術論文與間接對照文獻</p>
 
 <div class="doc-meta-bar" style="margin: 0.8rem 0 1.5rem 0; font-size: 0.95rem; color: var(--vp-c-text-2); display: flex; flex-wrap: wrap; gap: 0.8rem; align-items: center;">
-  <span><strong>版本</strong>：v0.1.0 閱讀預覽</span>
+  <span><strong>版本</strong>：v0.1.1 閱讀預覽</span>
   <span>·</span>
   <span>最後修訂：2026-09-09</span>
 </div>
